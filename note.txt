@@ -1,0 +1,16 @@
+class bootstrap :
+- align-items-center : vertikal tgh
+- align-items-start : vertikal atas
+- align-items-end : vertikal bawah
+
+margin :
+my : margin vertikal (atas bawah)
+mx : margin horizontal (kanan kiri)
+mt : margin top (atas)
+mb : margin bottom (bawah)
+ms : margin start (kiri)
+me : margin end (kanan)
+
+cara pakai : my-1, my-2, my-3, dll.
+
+ukuran bootstrap 1-5, kalo mau lebih bisa custom di vanilla css

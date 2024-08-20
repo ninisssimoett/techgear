@@ -1,0 +1,63 @@
+/* google font */
+
+
+
+body {
+    font-family: "roboto", sans-serif !important;
+}
+
+.navbar-brand {
+    font-size: 30px !important;
+}
+
+.head-section {
+    background-image: linear-gradient(180deg, #c4b6fd, #93acfc);
+}
+
+.nav-link {
+    font-size: 18px !important;
+    font-weight: 500 !important;
+}
+
+.nav-link:hover {
+    color: #0a58ca !important;
+}
+
+.discover {
+    font-size: 64px !important;
+}
+
+p {
+    font-size: 18px;
+}
+
+
+/* ionicon */
+.ionicon {
+    color: #0a58ca;
+    background-color: #f2f2f2;
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    margin-bottom: 12px;
+}
+
+.card:hover {
+    background: #0a58ca;
+    color: #fff;
+}
+
+.nav-tabs {
+    border: none !important;
+}
+
+.nav-tabs .active {
+    background-color: #0a58ca !important;
+    border: none;
+    color: #ffff !important;
+}
+
+.footer-section {
+    background-color: #0a58ca;
+    color: #ffff;
+}
